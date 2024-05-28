@@ -1,3 +1,5 @@
+"use client";
+
 import { Button, useColorMode, useColorModeValue } from "@chakra-ui/react";
 
 export default function () {

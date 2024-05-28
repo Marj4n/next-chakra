@@ -1,5 +1,3 @@
-"use client";
-
 import StarIcon from "@/components/icons/star.icon";
 import ThemeSwitcher from "@/components/theme.switcher";
 import { Button, Center, Heading, Stack, Text } from "@chakra-ui/react";
