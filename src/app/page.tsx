@@ -4,8 +4,7 @@ import StarIcon from "@/components/icons/star.icon";
 import ThemeSwitcher from "@/components/theme.switcher";
 import { Button, Center, Heading, Stack, Text } from "@chakra-ui/react";
 
-const repoLink: string =
-  "https://github.com/NobbyDeveloper/next-chakra-starter";
+const repoLink: string = "https://github.com/Marj4n/next-chakra";
 
 export default function Home() {
   return (
